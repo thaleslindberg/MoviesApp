@@ -1,5 +1,5 @@
 # MoviesApp
-- Just a sample of an app about movies using Firebase database and authentication
+Just a sample of an app about movies using Firebase database and authentication
 
 # Todolist
 The following application is using the version ionic 4
